@@ -4,7 +4,7 @@ description: Determine whether a situation calls for cunning (fox) or force (lio
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4044
+  version: 1.0.4045
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fox-or-lion-assessment
