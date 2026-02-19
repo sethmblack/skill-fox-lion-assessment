@@ -3,8 +3,9 @@ name: fox-lion-assessment
 description: Determine whether a situation calls for cunning (fox) or force (lion), and recommend the appropriate tactical approach.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4044
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fox-or-lion-assessment
 - storytelling
